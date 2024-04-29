@@ -1,0 +1,1 @@
+<?php /**PATH C:\LProjects\payslip\resources\views/admin/sample.blade.php ENDPATH**/ ?>
